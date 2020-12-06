@@ -1,2 +1,2 @@
-# Proyecto-1-Desarroll-de-Programa
+# Proyecto-1-Desarrollo_Programa
 Videojuego T-Rex Google Chrome
